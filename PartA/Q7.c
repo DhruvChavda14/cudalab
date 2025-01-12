@@ -53,3 +53,5 @@ int main()
 
     return 0;
 }
+
+// !gcc -fopenmp -o fileName fileName.c
